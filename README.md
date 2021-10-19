@@ -17,6 +17,10 @@ Create and deploy a web server using CI and CD.
 
 ## Links to application deployment
 
+Heroku dev deploy: https://tripppdx-server-deploy-dev.herokuapp.com/
+
+Heroku prod deploy: https://tripppdx-server-deploy-prod.herokuapp.com/
+
 ## Visual
 
 ![WRRC](./public/overview.png)
